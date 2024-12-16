@@ -1,24 +1,3 @@
-## Application Details
-|               |
-| ------------- |
-|**Generation Date and Time**<br>Fri Nov 15 2024 07:17:04 GMT+0000 (Coordinated Universal Time)|
-|**App Generator**<br>@sap/generator-fiori-elements|
-|**App Generator Version**<br>1.15.4|
-|**Generation Platform**<br>SAP Business Application Studio|
-|**Template Used**<br>Worklist Page V2|
-|**Service Type**<br>OData Url|
-|**Service URL**<br>https://sapes5.sapdevcenter.com/sap/opu/odata/sap/SEPMRA_PROD_MAN/|
-|**Module Name**<br>products_manager|
-|**Application Title**<br>Products Manager|
-|**Namespace**<br>namespace1|
-|**UI5 Theme**<br>sap_fiori_3|
-|**UI5 Version**<br>1.84.14|
-|**Enable Code Assist Libraries**<br>False|
-|**Enable TypeScript**<br>False|
-|**Add Eslint configuration**<br>False|
-|**Main Entity**<br>SEPMRA_C_PD_Product|
-|**Navigation Entity**<br>None|
-
 ## products_manager
 
 SAP Fiori elements application for managing products
@@ -44,5 +23,26 @@ SAP Fiori elements application for managing products
 #### Pre-requisites:
 
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
+
+## Application Details
+|               |
+| ------------- |
+|**Generation Date and Time**<br>Fri Nov 15 2024 07:17:04 GMT+0000 (Coordinated Universal Time)|
+|**App Generator**<br>@sap/generator-fiori-elements|
+|**App Generator Version**<br>1.15.4|
+|**Generation Platform**<br>SAP Business Application Studio|
+|**Template Used**<br>Worklist Page V2|
+|**Service Type**<br>OData Url|
+|**Service URL**<br>https://sapes5.sapdevcenter.com/sap/opu/odata/sap/SEPMRA_PROD_MAN/|
+|**Module Name**<br>products_manager|
+|**Application Title**<br>Products Manager|
+|**Namespace**<br>namespace1|
+|**UI5 Theme**<br>sap_fiori_3|
+|**UI5 Version**<br>1.84.14|
+|**Enable Code Assist Libraries**<br>False|
+|**Enable TypeScript**<br>False|
+|**Add Eslint configuration**<br>False|
+|**Main Entity**<br>SEPMRA_C_PD_Product|
+|**Navigation Entity**<br>None|
 
 
